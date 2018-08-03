@@ -207,7 +207,7 @@ public class Configuration {
         }
 
         public Builder firebaseRootPath (String rootPath) {
-            config.firebaseRootPath = rootPath;
+            config.firebaseRootPath = "chat/" + rootPath;
             return this;
         }
 

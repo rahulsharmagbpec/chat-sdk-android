@@ -62,7 +62,7 @@ public class SearchActivity extends BaseActivity {
 
         initViews();
 
-        getSupportActionBar().setHomeButtonEnabled(true);
+        //getSupportActionBar().setHomeButtonEnabled(true);
 
     }
 
